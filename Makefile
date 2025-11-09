@@ -136,7 +136,7 @@ test: build log
 	@python riscv-tests/test_data_extract.py
 	@rm -f build/spike build/mem_writes
 	@# Success message
-	@echo -e "\033[1;32m✓ Test completed successfully!\033[0m"
+	@echo -e "\033[1;32m Test completed successfully!\033[0m"
 	@echo -e "\033[1;36m==> Output files in build/ directory:\033[0m"
 	@echo -e "  prog.elf       - RTL simulation binary"
 	@echo -e "  prog.hex       - Memory initialization file"
