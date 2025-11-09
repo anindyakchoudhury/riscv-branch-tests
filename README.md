@@ -385,12 +385,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Email: anindyakchoudhury@gmail.com  
 Copyright (c) 2025 Tecknoz
 
+
 ## Acknowledgments
 
 - Based on the RISC-V ISA specification
 - Uses the official RISC-V toolchain and Spike ISA simulator
 - Designed for use with the CVA6 (Ariane) processor verification environment
 - Test methodology inspired by industry-standard verification practices
+- Reviewed by Foez Ahmed, Tecknoz
 
 ## References
 
